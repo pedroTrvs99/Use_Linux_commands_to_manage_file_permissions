@@ -17,7 +17,8 @@ The primary objective of this activity was to identify, interpret, and modify fi
 
 <p align="cennter">
 Step 1: Check File and Directory Permissions <br/>
-<img src="![Image](https://github.com/user-attachments/assets/ae7d3334-882c-46ae-9f6e-2d3e20f33f11)" height="80" width="80" alt="Step 1 Screenshot"/>
+   
+<img src="https://github.com/user-attachments/assets/ae7d3334-882c-46ae-9f6e-2d3e20f33f11" width="853" alt="Step 1 Screenshot"/>
 <br />
 
 
