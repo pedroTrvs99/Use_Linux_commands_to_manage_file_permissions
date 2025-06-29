@@ -27,6 +27,12 @@ Step 2: Interpret the Permissions String <br/>
 <img src="https://github.com/user-attachments/assets/6f2acc9f-c6c4-475b-af0c-f78e40ed655b" width="653" alt="Step 1 Screenshot"/>
 <br />
 
+<p align="center">
+Step 3: Identify and Change File Permissions <br/>
+   
+<img src="https://github.com/user-attachments/assets/6f2acc9f-c6c4-475b-af0c-f78e40ed655b" width="653" alt="Step 1 Screenshot"/>
+<br />
+
 ---
 
 ## **Projects & Key Skills**
