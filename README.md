@@ -39,6 +39,11 @@ Step 4: Modify Hidden File Permissions <br/>
 <img src="https://github.com/user-attachments/assets/2357ae3f-17cb-4ad2-80c8-0b3bf96e35e7" width="653" alt="Step 1 Screenshot"/>
 <br />
 
+<p align="center">
+Step 5: Change Directory Permissions <br/>
+   
+<img src="https://github.com/user-attachments/assets/2357ae3f-17cb-4ad2-80c8-0b3bf96e35e7" width="653" alt="Step 1 Screenshot"/>
+<br />
 ---
 
 ## **Projects & Key Skills**
