@@ -34,7 +34,7 @@ Step 3: Identify and Change File Permissions <br/>
 <br />
 
 <p align="center">
-Step 3: Modify Hidden File Permissions <br/>
+Step 4: Modify Hidden File Permissions <br/>
    
 <img src="https://github.com/user-attachments/assets/573e429b-6763-48c9-82af-224ba6972756" width="653" alt="Step 1 Screenshot"/>
 <br />
