@@ -54,6 +54,7 @@ Step 5: Change Directory Permissions <br/>
 * **Defence in Depth: Adding layers of security, where file permissions serve as a critical layer at the operating system level.**
 
 <h2>Key Learnings & Takeaways:</h2>
+
 * **Gained practical proficiency in using ls -la and chmod for effective Linux file system security management.**
 * **Deepened understanding of how file permissions directly impact system security and data protection.**
 * **Reinforced the importance of regularly reviewing and correctly setting permissions to prevent unauthorised access and maintain system integrity.**
